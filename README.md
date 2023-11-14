@@ -8,6 +8,8 @@
 
 * [Tesseract Green](https://github.com/brlin-tw/tesseract-green)  
   An Ansible role for building dependency bundled, ready-to-use Tesseract packages
+* （開發中）[Tesseract Orange](https://gitlab.com/tesseract-prebuilt/tesseract-orange)  
+  Provides reproducible Tesseract build optimized for your machine
 
 ## 參考資料
 
