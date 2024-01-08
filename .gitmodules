@@ -11,3 +11,7 @@
 	path = Tesseract Orange
 	url = https://gitlab.com/tesseract-prebuilt/tesseract-orange.git
 	ignore = dirty
+[submodule "Tesseract Green"]
+	path = Tesseract Green
+	url = https://gitlab.com/tesseract-prebuilt/tesseract-green.git
+	ignore = dirty
