@@ -6,6 +6,8 @@
 
 ## 解決方案
 
+* [Tesseract Open Source OCR Engine (main repository)](https://github.com/tesseract-ocr/tesseract)  
+  上游專案
 * [Tesseract Green](https://gitlab.com/tesseract-prebuilt/tesseract-green)  
   An Ansible role for building dependency bundled, ready-to-use Tesseract packages
 * （開發中）[Tesseract Orange](https://gitlab.com/tesseract-prebuilt/tesseract-orange)  

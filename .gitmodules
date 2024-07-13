@@ -15,3 +15,7 @@
 	path = Tesseract Green
 	url = https://gitlab.com/tesseract-prebuilt/tesseract-green.git
 	ignore = dirty
+[submodule "Tesseract Open Source OCR Engine (main repository)"]
+	path = Tesseract Open Source OCR Engine (main repository)
+	url = https://github.com/tesseract-ocr/tesseract.git
+	ignore = dirty
