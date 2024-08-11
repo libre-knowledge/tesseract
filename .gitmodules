@@ -19,3 +19,7 @@
 	path = Tesseract Open Source OCR Engine (main repository)
 	url = https://github.com/tesseract-ocr/tesseract.git
 	ignore = dirty
+[submodule "Snap packaging for the Tesseract application: Enables easy access to the Tesseract application on snap-enabled OS distributions."]
+	path = Snap packaging for the Tesseract application: Enables easy access to the Tesseract application on snap-enabled OS distributions.
+	url = https://github.com/brlin-tw/tesseract-snap.git
+	ignore = dirty

@@ -12,6 +12,8 @@
   An Ansible role for building dependency bundled, ready-to-use Tesseract packages
 * （開發中）[Tesseract Orange](https://gitlab.com/tesseract-prebuilt/tesseract-orange)  
   Provides reproducible Tesseract build optimized for your machine
+* （開發中）[Snap packaging for the Tesseract application](https://github.com/brlin-tw/tesseract-snap)  
+  Enables easy access to the Tesseract application on snap-enabled OS distributions.
 
 ## 參考資料
 
