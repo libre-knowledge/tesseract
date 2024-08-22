@@ -16,7 +16,7 @@
 * （開發中）[Tesseract Orange](https://gitlab.com/tesseract-prebuilt/tesseract-orange)  
   Provides reproducible Tesseract build optimized for your machine
 * （開發中）[Snap packaging for the Tesseract application](https://github.com/brlin-tw/tesseract-snap)  
-  Enables easy access to the Tesseract application on snap-enabled OS distributions.
+  A community-maintained package to easily install Tesseract on Linux.
 
 ## 參考資料
 
