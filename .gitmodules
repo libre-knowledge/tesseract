@@ -19,6 +19,7 @@
 	path = Tesseract Open Source OCR Engine (main repository)
 	url = https://github.com/tesseract-ocr/tesseract.git
 	ignore = dirty
+	fetchRecurseSubmodules = false
 [submodule "Snap packaging for the Tesseract application"]
 	path = Snap packaging for the Tesseract application
 	url = https://github.com/brlin-tw/tesseract-snap.git
