@@ -26,5 +26,6 @@
 	ignore = dirty
 [submodule "Snap packaging for the Tesseract application (for Snapcrafters)"]
 	path = Snap packaging for the Tesseract application (for Snapcrafters)
-	url = https://github.com/snapcrafters/tesseract.git
+	url = https://github.com/brlin-tw/tesseract-snapcrafters.git
 	ignore = dirty
+	branch = patch/impl-snap-packaging
